@@ -12,7 +12,7 @@ Open a [tool suggestion issue](https://github.com/laofa668/ai-tools-directory/is
 4. Your relationship to the tool (owner, employee, affiliate, user, or none).
 5. A source for any specific feature claim, preferably the product's own page.
 
-You do not need to provide traffic numbers, personal testing, or a comparison with other tools. Domain registration dates in the initial list came from Columbus; new submissions may omit them. Maintainers can mark that column as `—` until a date is checked.
+You do not need to provide traffic numbers, personal testing, or a comparison with other tools.
 
 ## Review criteria
 
