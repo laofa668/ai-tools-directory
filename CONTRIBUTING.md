@@ -1,6 +1,6 @@
-# Contributing / 投稿指南
+# Contributing
 
-Thanks for helping keep this directory useful. 欢迎推荐实用的 AI 工具。
+Thanks for helping keep this directory useful.
 
 ## Suggest a tool
 

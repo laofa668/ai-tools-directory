@@ -2,9 +2,7 @@
 
 A community-curated directory of AI tools. Browse by use case and suggest additions through GitHub Issues or pull requests.
 
-一个由社区共同维护的 AI 工具目录。按用途浏览，也欢迎通过 Issue 或 Pull Request 推荐工具。
-
-## Browse tools / 浏览工具
+## Browse tools
 
 ### Video creation
 
@@ -91,15 +89,15 @@ A community-curated directory of AI tools. Browse by use case and suggest additi
 | [Obby](https://obby.fun) | Creates Roblox games from natural-language prompts. |
 | [WorldOS](https://worldos.cc) | Creates interactive AI worlds and characters. |
 
-## Maintainer's project / 维护者项目
+## Maintainer's project
 
 - [Kling4 AI Video Studio](https://kling40.app/) — AI video creation tool operated by this repository's maintainer. It is disclosed separately and is not part of the 50-tool discovery set.
 
-## Suggest a tool / 推荐工具
+## Suggest a tool
 
 [Open a tool suggestion](https://github.com/laofa668/ai-tools-directory/issues/new?template=suggest-a-tool.yml) or submit a pull request. Include the official website, a neutral one-sentence description, the use case, and your relationship to the product. Self-submissions are welcome when disclosed. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
-## How entries are maintained / 维护原则
+## How entries are maintained
 
 - Link to the official product website, not an affiliate or tracking URL.
 - Describe a verifiable use case. Avoid claims such as “best,” unverifiable numbers, or copied marketing text.
