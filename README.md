@@ -1,6 +1,6 @@
 # AI Tools Directory
 
-A community-curated directory of AI tools. Browse by use case and suggest additions through GitHub Issues or pull requests.
+A community-curated AI tools directory organized by task. Find tools for video, audio, images, 3D, writing, AI agents, education and marketing. Suggest additions through GitHub Issues or pull requests.
 
 ## Browse tools
 
@@ -8,24 +8,24 @@ A community-curated directory of AI tools. Browse by use case and suggest additi
 
 | Tool | What it does |
 | --- | --- |
-| [Medux](https://medux.io) | Media tools for AI agents, including video and audio workflows. |
+| [Medux](https://medux.io) | Provides lip sync and image-to-video tools for AI agents. |
 | [TubeTube](https://tubetube.io) | Turns lyrics or stories into videos. |
-| [LumiClip](https://lumiclip.ai) | Turns long videos into short clips. |
+| [LumiClip](https://lumiclip.ai) | Clips and captions long videos for short-form platforms. |
 | [SubtitleFlow](https://subtitleflow.com) | Transcribes videos and translates subtitles. |
-| [VIDHAPI](https://vidhapi.app) | Provides video and image generation through multiple models. |
+| [VIDHAPI](https://vidhapi.app) | Generates AI videos and images through pay-as-you-go models. |
 | [Vidko](https://vidko.ai) | Creates Arabic story videos with visuals and narration. |
 | [UGCfy](https://ugcfy.ai) | Turns product links into UGC-style video ads. |
 | [PassiveShorts](https://passiveshorts.com) | Creates short videos with scripts, voiceovers and captions. |
-| [Astorie](https://astorie.ai) | Offers a canvas for AI video and image workflows. |
-| [Omni AI Video](https://omniaivideo.ai) | Combines video, image, voice and music tools. |
-| [Kling 4.0 AI Video Generator](https://kling40.app/) | Creates AI videos from text or images. |
-| [Vixal](https://vixal.app) | Creates short video ads from text prompts. |
-| [Zevor](https://zevor.ai) | Creates short-form videos and social content. |
-| [RedVideo](https://redvideo.ai) | Generates and edits videos with multiple AI models. |
-| [Creatide](https://creatide.ai) | Creates videos, images and music from text or images. |
+| [Astorie](https://astorie.ai) | Creates AI videos on a collaborative canvas with reusable workflows. |
+| [Omni AI Video](https://omniaivideo.ai) | Generates videos from text, images, audio or video references. |
+| [Kling 4.0 AI Video Generator](https://kling40.app/) | Creates AI videos from text prompts or images. |
+| [Vixal](https://vixal.app) | Generates short-form AI videos from text prompts. |
+| [Zevor](https://zevor.ai) | Creates short videos, carousels and AI avatars for social media. |
+| [RedVideo](https://redvideo.ai) | Generates AI videos from text or images across multiple models. |
+| [Creatide](https://creatide.ai) | Generates AI videos, images and music in one workspace. |
 | [StickReel](https://stickreel.com) | Turns ideas into animated stick figure videos. |
 | [Avatar Factory](https://avatarfactory.io) | Turns scripts into short videos with a consistent AI avatar. |
-| [OnVid](https://onvid.ai) | Generates videos from text or images. |
+| [OnVid](https://onvid.ai) | Generates AI videos from text or photos using multiple models. |
 | [RaceCut](https://racecut.app) | Syncs songs to animated marble-race videos. |
 | [7ART](https://7art.ai) | Creates scripts, characters and scenes for short drama series. |
 | [Kavel](https://kavel.ai) | Offers AI video and image generation. |
@@ -48,20 +48,20 @@ A community-curated directory of AI tools. Browse by use case and suggest additi
 | --- | --- |
 | [GenImagePro](https://genimagepro.com) | Creates product and fashion images from photos. |
 | [Librava](https://librava.ai) | Creates printable books and activity pages. |
-| [LinoCut](https://linocut.ai) | Combines image generation and editing tools. |
+| [LinoCut](https://linocut.ai) | Creates and edits images, videos and audio in one workspace. |
 | [ModCar](https://modcar.ai) | Previews car modifications on vehicle photos. |
 | [ColorByte](https://colorbyteai.art) | Creates printable coloring pages. |
 | [Pixbird](https://pixbird.ai) | Generates images, brand visuals and videos. |
 | [FamilyShoot](https://familyshoot.com) | Combines family photos into portraits. |
-| [Swagga](https://swagga.ai) | Offers image, video and audio creation tools. |
+| [Swagga](https://swagga.ai) | Creates AI photos and videos with multiple models. |
 | [Muse Image](https://muse-image.com) | Generates and edits images from prompts. |
-| [Seamless Canvas](https://seamlesscanvas.com) | Creates seamless textures and patterns. |
+| [Seamless Canvas](https://seamlesscanvas.com) | Turns photos and artwork into tileable textures and patterns. |
 | [PhoText](https://photext.ai) | Edits text inside images. |
 | [Jewelry Studio](https://jewelry-studio.ai) | Creates jewelry visuals from text or sketches. |
 | [PaperFig](https://paperfig.io) | Turns research data and ideas into scientific figures. |
 | [Catalog Pro](https://catalogpro.app) | Creates product and clothing model photos. |
 | [Makify AI](https://makifyai.com) | Generates and edits images from prompts. |
-| [Koloring](https://koloring.ai) | Creates printable AI coloring pages. |
+| [Koloring](https://koloring.ai) | Offers printable coloring pages and an AI page generator. |
 | [FloorAI](https://floorai.ai) | Redraws sketches, photos or PDFs as editable floor plans. |
 | [SciFigure AI](https://scifigure.org) | Creates scientific diagrams and research figures. |
 | [Lookora](https://lookora.app) | Shows AI virtual try-ons using a person's photo. |
@@ -77,7 +77,7 @@ A community-curated directory of AI tools. Browse by use case and suggest additi
 | [Triple3D](https://triple3d.ai) | Generates 3D models from images or text. |
 | [TripoSplat](https://triposplat.com) | Turns images into 3D Gaussian splats. |
 | [Meshlox](https://meshlox.com) | Creates Roblox 3D accessories and icons from prompts. |
-| [GFX Forge](https://gfxforge.io) | Creates thumbnails and interface assets for games. |
+| [GFX Forge](https://gfxforge.io) | Creates Roblox thumbnails, GUI elements and game icons. |
 
 ### Writing & research
 
@@ -85,7 +85,7 @@ A community-curated directory of AI tools. Browse by use case and suggest additi
 | --- | --- |
 | [Evidano](https://evidano.com) | Analyzes qualitative research data and interviews. |
 | [Shakespeare AI](https://shakespeareai.net) | Helps write books and export manuscripts. |
-| [Kompozy](https://kompozy.io) | Creates content across video, image and text formats. |
+| [Kompozy](https://kompozy.io) | Turns a URL or idea into videos, images, blog posts and newsletters. |
 | [ARWriter](https://arwriterai.com) | Offers writing and editing tools for Arabic content. |
 
 ### AI chat & interactive stories
@@ -93,7 +93,7 @@ A community-curated directory of AI tools. Browse by use case and suggest additi
 | Tool | What it does |
 | --- | --- |
 | [WorldOS](https://worldos.cc) | Creates interactive AI worlds and characters. |
-| [ChatGBot](https://chatgbot.ai) | Brings several AI chat models into one interface. |
+| [ChatGBot](https://chatgbot.ai) | Chats with GPT, Claude and open-source models in one interface. |
 | [Whispy](https://whispy.ai) | Offers character chats and interactive romance stories. |
 
 ### AI agents & workflows
@@ -101,9 +101,9 @@ A community-curated directory of AI tools. Browse by use case and suggest additi
 | Tool | What it does |
 | --- | --- |
 | [Offloop](https://offloop.org) | Builds reusable AI agent workflows for small teams. |
-| [Perch AI](https://perchai.app) | Runs tasks with a team of AI agents. |
+| [Perch AI](https://perchai.app) | Plans tasks and runs AI agents that check and cite their findings. |
 | [Squad](https://squad.so) | Connects AI teammates to business tools and recurring tasks. |
-| [Scoopie](https://scoopie.ai) | Answers questions over local files with citations. |
+| [Scoopie](https://scoopie.ai) | Answers questions over local files with citations while keeping originals on-device. |
 | [Doop](https://doop.design) | Lets AI agents collaborate on a shared design canvas. |
 
 ### Productivity & education
@@ -111,18 +111,18 @@ A community-curated directory of AI tools. Browse by use case and suggest additi
 | Tool | What it does |
 | --- | --- |
 | [LoomLesson](https://loomlesson.com) | Creates lesson plans and classroom materials. |
-| [HTML Slides](https://htmlslides.ai) | Creates shareable HTML presentations. |
+| [HTML Slides](https://htmlslides.ai) | Creates playable, shareable HTML presentations with AI or templates. |
 | [Mailover](https://mailover.ai) | Summarizes email and extracts tasks. |
 | [Mira Resume](https://miraresume.com) | Builds resumes and assists with job applications. |
 | [Vunote](https://vunote.so) | Turns YouTube videos into notes and summaries. |
 | [Darwinity](https://darwinity.com) | Turns lectures, PDFs and videos into study notes and quizzes. |
-| [Recastia](https://recastia.com) | Converts PDFs into videos, presentations and other formats. |
+| [Recastia](https://recastia.com) | Converts PDFs into videos, slides, flipbooks and websites. |
 
 ### Marketing & social
 
 | Tool | What it does |
 | --- | --- |
-| [Fypro](https://fypro.ai) | Generates social content ideas and marketing copy. |
+| [Fypro](https://fypro.ai) | Analyzes TikTok accounts and creates content ideas and scripts. |
 | [Spook](https://tryspook.com) | Helps plan and publish search content. |
 | [Octupie](https://octupie.com) | Suggests Instagram Reel topics and scripts. |
 | [Shotyard](https://shotyard.ai) | Creates product visuals and video ads. |

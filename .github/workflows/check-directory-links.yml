@@ -1,0 +1,21 @@
+name: Check directory links
+
+on:
+  push:
+    paths:
+      - README.md
+      - scripts/check-directory-links.py
+  schedule:
+    - cron: '23 2 5 * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - name: Check listings and links
+        run: python3 scripts/check-directory-links.py
