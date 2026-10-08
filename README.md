@@ -53,14 +53,11 @@ A community-curated directory of AI tools. Browse by use case and suggest additi
 | [ColorByte](https://colorbyteai.art) | Creates printable coloring pages. |
 | [Pixbird](https://pixbird.ai) | Generates images, brand visuals and videos. |
 | [FamilyShoot](https://familyshoot.com) | Combines family photos into portraits. |
-| [Pixal3D](https://pixal3d.ai) | Turns images into 3D models. |
 | [Swagga](https://swagga.ai) | Offers image, video and audio creation tools. |
 | [Muse Image](https://muse-image.com) | Generates and edits images from prompts. |
 | [Seamless Canvas](https://seamlesscanvas.com) | Creates seamless textures and patterns. |
-| [Morfx 3D](https://morfx.net) | Converts images into 3D assets. |
 | [PhoText](https://photext.ai) | Edits text inside images. |
 | [Jewelry Studio](https://jewelry-studio.ai) | Creates jewelry visuals from text or sketches. |
-| [Meowa](https://meowa.ai) | Generates pixel art and game assets. |
 | [PaperFig](https://paperfig.io) | Turns research data and ideas into scientific figures. |
 | [Catalog Pro](https://catalogpro.app) | Creates product and clothing model photos. |
 | [Makify AI](https://makifyai.com) | Generates and edits images from prompts. |
@@ -68,6 +65,19 @@ A community-curated directory of AI tools. Browse by use case and suggest additi
 | [FloorAI](https://floorai.ai) | Redraws sketches, photos or PDFs as editable floor plans. |
 | [SciFigure AI](https://scifigure.org) | Creates scientific diagrams and research figures. |
 | [Lookora](https://lookora.app) | Shows AI virtual try-ons using a person's photo. |
+
+### 3D & game creation
+
+| Tool | What it does |
+| --- | --- |
+| [Pixal3D](https://pixal3d.ai) | Turns images into 3D models. |
+| [Morfx 3D](https://morfx.net) | Converts images into 3D assets. |
+| [Meowa](https://meowa.ai) | Generates pixel art and game assets. |
+| [Obby](https://obby.fun) | Creates Roblox games from natural-language prompts. |
+| [Triple3D](https://triple3d.ai) | Generates 3D models from images or text. |
+| [TripoSplat](https://triposplat.com) | Turns images into 3D Gaussian splats. |
+| [Meshlox](https://meshlox.com) | Creates Roblox 3D accessories and icons from prompts. |
+| [GFX Forge](https://gfxforge.io) | Creates thumbnails and interface assets for games. |
 
 ### Writing & research
 
@@ -77,6 +87,24 @@ A community-curated directory of AI tools. Browse by use case and suggest additi
 | [Shakespeare AI](https://shakespeareai.net) | Helps write books and export manuscripts. |
 | [Kompozy](https://kompozy.io) | Creates content across video, image and text formats. |
 | [ARWriter](https://arwriterai.com) | Offers writing and editing tools for Arabic content. |
+
+### AI chat & interactive stories
+
+| Tool | What it does |
+| --- | --- |
+| [WorldOS](https://worldos.cc) | Creates interactive AI worlds and characters. |
+| [ChatGBot](https://chatgbot.ai) | Brings several AI chat models into one interface. |
+| [Whispy](https://whispy.ai) | Offers character chats and interactive romance stories. |
+
+### AI agents & workflows
+
+| Tool | What it does |
+| --- | --- |
+| [Offloop](https://offloop.org) | Builds reusable AI agent workflows for small teams. |
+| [Perch AI](https://perchai.app) | Runs tasks with a team of AI agents. |
+| [Squad](https://squad.so) | Connects AI teammates to business tools and recurring tasks. |
+| [Scoopie](https://scoopie.ai) | Answers questions over local files with citations. |
+| [Doop](https://doop.design) | Lets AI agents collaborate on a shared design canvas. |
 
 ### Productivity & education
 
@@ -102,13 +130,6 @@ A community-curated directory of AI tools. Browse by use case and suggest additi
 | [Overrank](https://overrank.ai) | Creates and publishes search-focused articles. |
 | [Siml](https://getsiml.com) | Creates ads and estimates their likely performance. |
 | [Ootto](https://ootto.ai) | Plans and creates Instagram Reels from a business website. |
-
-### Other
-
-| Tool | What it does |
-| --- | --- |
-| [Obby](https://obby.fun) | Creates Roblox games from natural-language prompts. |
-| [WorldOS](https://worldos.cc) | Creates interactive AI worlds and characters. |
 
 ## Suggest a tool
 
