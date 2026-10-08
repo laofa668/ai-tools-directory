@@ -18,7 +18,7 @@ A community-curated directory of AI tools. Browse by use case and suggest additi
 | [PassiveShorts](https://passiveshorts.com) | Creates short videos with scripts, voiceovers and captions. |
 | [Astorie](https://astorie.ai) | Offers a canvas for AI video and image workflows. |
 | [Omni AI Video](https://omniaivideo.ai) | Combines video, image, voice and music tools. |
-| [Kling 4.0 AI Video Generator](https://kling40.app/) | Creates AI videos from text or images. Maintainer project. |
+| [Kling 4.0 AI Video Generator](https://kling40.app/) | Creates AI videos from text or images. |
 | [Vixal](https://vixal.app) | Creates short video ads from text prompts. |
 | [Zevor](https://zevor.ai) | Creates short-form videos and social content. |
 | [RedVideo](https://redvideo.ai) | Generates and edits videos with multiple AI models. |
