@@ -4,8 +4,6 @@ A community-curated directory of AI tools. Browse by use case and suggest additi
 
 一个由社区共同维护的 AI 工具目录。按用途浏览，也欢迎通过 Issue 或 Pull Request 推荐工具。
 
-> **About this list / 收录说明：** The 50 tools below were discovered through [Columbus](https://columbus.tools/) on 2026-10-08. Their domains were reported as registered within the previous six months and returned HTTP 200 in that dataset. Domain registration is **not** a product launch date. Traffic and growth estimates are used only to discover candidates; inclusion is **not** a ranking, endorsement, hands-on review, or guarantee that a feature is available today. Please check each official site before using it. / 以下 50 个候选来自哥伦布数据；域名注册时间不等于产品上线时间。收录不代表排名、实测或推荐。
-
 ## Browse tools / 浏览工具
 
 ### Video creation
