@@ -22,6 +22,13 @@ A community-curated directory of AI tools. Browse by use case and suggest additi
 | [Vixal](https://vixal.app) | Creates short video ads from text prompts. |
 | [Zevor](https://zevor.ai) | Creates short-form videos and social content. |
 | [RedVideo](https://redvideo.ai) | Generates and edits videos with multiple AI models. |
+| [Creatide](https://creatide.ai) | Creates videos, images and music from text or images. |
+| [StickReel](https://stickreel.com) | Turns ideas into animated stick figure videos. |
+| [Avatar Factory](https://avatarfactory.io) | Turns scripts into short videos with a consistent AI avatar. |
+| [OnVid](https://onvid.ai) | Generates videos from text or images. |
+| [RaceCut](https://racecut.app) | Syncs songs to animated marble-race videos. |
+| [7ART](https://7art.ai) | Creates scripts, characters and scenes for short drama series. |
+| [Kavel](https://kavel.ai) | Offers AI video and image generation. |
 
 ### Audio & voice
 
@@ -32,6 +39,8 @@ A community-curated directory of AI tools. Browse by use case and suggest additi
 | [TonesMatch](https://tonesmatch.com) | Matches guitar tones and suggests gear settings. |
 | [VexaScribe](https://vexascribe.com) | Transcribes meetings and media with timestamps. |
 | [Riffloop](https://riffloop.app) | Offers AI music stems and practice controls. |
+| [Musicfy AI](https://musicfyai.com) | Creates AI song covers and original songs. |
+| [LumiMusic](https://lumimusic.ai) | Creates and edits songs from prompts or lyrics. |
 
 ### Image & design
 
@@ -52,6 +61,13 @@ A community-curated directory of AI tools. Browse by use case and suggest additi
 | [PhoText](https://photext.ai) | Edits text inside images. |
 | [Jewelry Studio](https://jewelry-studio.ai) | Creates jewelry visuals from text or sketches. |
 | [Meowa](https://meowa.ai) | Generates pixel art and game assets. |
+| [PaperFig](https://paperfig.io) | Turns research data and ideas into scientific figures. |
+| [Catalog Pro](https://catalogpro.app) | Creates product and clothing model photos. |
+| [Makify AI](https://makifyai.com) | Generates and edits images from prompts. |
+| [Koloring](https://koloring.ai) | Creates printable AI coloring pages. |
+| [FloorAI](https://floorai.ai) | Redraws sketches, photos or PDFs as editable floor plans. |
+| [SciFigure AI](https://scifigure.org) | Creates scientific diagrams and research figures. |
+| [Lookora](https://lookora.app) | Shows AI virtual try-ons using a person's photo. |
 
 ### Writing & research
 
@@ -71,6 +87,8 @@ A community-curated directory of AI tools. Browse by use case and suggest additi
 | [Mailover](https://mailover.ai) | Summarizes email and extracts tasks. |
 | [Mira Resume](https://miraresume.com) | Builds resumes and assists with job applications. |
 | [Vunote](https://vunote.so) | Turns YouTube videos into notes and summaries. |
+| [Darwinity](https://darwinity.com) | Turns lectures, PDFs and videos into study notes and quizzes. |
+| [Recastia](https://recastia.com) | Converts PDFs into videos, presentations and other formats. |
 
 ### Marketing & social
 
@@ -82,6 +100,8 @@ A community-curated directory of AI tools. Browse by use case and suggest additi
 | [Shotyard](https://shotyard.ai) | Creates product visuals and video ads. |
 | [The SEO Agent](https://theseoagent.ai) | Automates SEO research, writing and publishing. |
 | [Overrank](https://overrank.ai) | Creates and publishes search-focused articles. |
+| [Siml](https://getsiml.com) | Creates ads and estimates their likely performance. |
+| [Ootto](https://ootto.ai) | Plans and creates Instagram Reels from a business website. |
 
 ### Other
 
