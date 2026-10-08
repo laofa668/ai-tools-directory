@@ -8,6 +8,7 @@ A community-curated directory of AI tools. Browse by use case and suggest additi
 
 | Tool | What it does |
 | --- | --- |
+| [Kling4 AI Video Studio](https://kling40.app/) | Creates AI videos from text or images. Maintainer project. |
 | [Medux](https://medux.io) | Media tools for AI agents, including video and audio workflows. |
 | [TubeTube](https://tubetube.io) | Turns lyrics or stories into videos. |
 | [LumiClip](https://lumiclip.ai) | Turns long videos into short clips. |
@@ -88,10 +89,6 @@ A community-curated directory of AI tools. Browse by use case and suggest additi
 | --- | --- |
 | [Obby](https://obby.fun) | Creates Roblox games from natural-language prompts. |
 | [WorldOS](https://worldos.cc) | Creates interactive AI worlds and characters. |
-
-## Maintainer's project
-
-- [Kling4 AI Video Studio](https://kling40.app/) — AI video creation tool operated by this repository's maintainer. It is disclosed separately and is not part of the 50-tool discovery set.
 
 ## Suggest a tool
 
