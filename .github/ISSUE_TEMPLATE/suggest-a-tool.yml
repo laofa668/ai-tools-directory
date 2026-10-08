@@ -1,0 +1,58 @@
+name: Suggest an AI tool
+description: Suggest a useful AI product for the community directory
+title: "Tool suggestion: "
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Tool name
+      placeholder: Example AI
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Official website
+      placeholder: https://example.com
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Video creation
+        - Audio & voice
+        - Image & design
+        - Writing & research
+        - Productivity & education
+        - Marketing & social
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: What can users do with it?
+      description: One factual sentence; avoid slogans and ranking claims.
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source for the description
+      description: A page on the official website is preferred.
+      placeholder: https://example.com/features
+    validations:
+      required: true
+  - type: dropdown
+    id: relationship
+    attributes:
+      label: Your relationship to this tool
+      options:
+        - Owner or employee
+        - Affiliate or paid promoter
+        - User
+        - No relationship
+    validations:
+      required: true
