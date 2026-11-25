@@ -54,6 +54,7 @@ A community-curated AI tools directory organized by task. Find tools for video, 
 | [Pixbird](https://pixbird.ai) | Generates images, brand visuals and videos. |
 | [FamilyShoot](https://familyshoot.com) | Combines family photos into portraits. |
 | [Swagga](https://swagga.ai) | Creates AI photos and videos with multiple models. |
+| [Kite](https://kite.new) | Lets AI agents like Claude, ChatGPT and Cursor draw editable UI layers in a design file the team edits live. |
 | [Muse Image](https://muse-image.com) | Generates and edits images from prompts. |
 | [Seamless Canvas](https://seamlesscanvas.com) | Turns photos and artwork into tileable textures and patterns. |
 | [PhoText](https://photext.ai) | Edits text inside images. |
